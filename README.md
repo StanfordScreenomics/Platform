@@ -33,8 +33,8 @@ This manuscript provides key background on the motivation, architecture, and app
   - https://github.com/iansulin/stanford_screenomics/releases
 
 - Latest downloads:
-  - [Download Most Recent Version Stanford Screenomics App (Data Collection App)](https://github.com/iansulin/stanford_screenomics/releases/download/Project-Files_Stanford-Screenomics/StanfordScreenomics_External_062825.zip)
-  - [Download Most Recent Version Screenomics Dashboard App](https://github.com/iansulin/stanford_screenomics/releases/download/Project-Files_Screenomics-Dashboard/ScreenomicsDashboard_External_062025.zip)
+  - [Download Most Recent Version Stanford Screenomics App (Data Collection App)](https://github.com/StanfordScreenomics/Platform/releases/download/Project-Files_Stanford-Screenomics/StanfordScreenomics_External_062825.zip)
+  - [Download Most Recent Version Screenomics Dashboard App](https://github.com/StanfordScreenomics/Platform/releases/download/Project-Files_Screenomics-Dashboard/ScreenomicsDashboard_External_062025.zip)
 
 ---
 
