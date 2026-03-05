@@ -18,7 +18,7 @@ What’s in this repo:
 
 Before reviewing this documentation or using the associated project files, we **strongly recommend** reading the following article: https://doi.org/10.1038/s44360-026-00072-7
 
-> Kim, I., Boffa, J., Cho, M., Conroy, D. E., Kline, N., Haber, N., Robinson, T. N., Reeves, B., & Ram, N. (2026). An open-source platform for multimodal digital trace data collection from smartphones. Nature Health. 
+> Kim, I., Boffa, J., Cho, M. et al. An open-source platform for multimodal digital trace data collection from smartphones. Nat. Health (2026). https://doi-org.ezaccess.libraries.psu.edu/10.1038/s44360-026-00072-7
 
 This paper provides key background on the motivation, architecture, and applications of the Screenomics framework. Familiarity with its content will help ensure you interpret and apply the platform appropriately in your own work.
 
